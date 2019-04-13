@@ -1,0 +1,21 @@
+body {
+  background-color: #EFEFEF;
+  font-family: 'Gentium Plus', serif;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+}
+
+h1 a {
+  color: black;
+  text-decoration: none;
+}
+
+.container-lg {
+  background-color: #FFF;
+  border: solid 1px #DDD;
+  margin: 0 auto;
+  max-width: 760px;
+  padding: 20px;
+}
