@@ -10,5 +10,5 @@ If anyone wants to discuss, feel free to shoot me an email ([eric.sowell@gmail.c
 
 Now, that's enough English.
 
-[κεφαλαῖον τὸ πρῶτον](chapters/ch1)
-[κεφαλαῖον τὸ δεύτερον](chapters/ch2)
+* [κεφαλαῖον τὸ πρῶτον](chapters/ch1)
+* [κεφαλαῖον τὸ δεύτερον](chapters/ch2)
